@@ -1,0 +1,1 @@
+window._CCSettings={platform:"win32",groupList:["default","hero","wall"],collisionMatrix:[[true,false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/scene1.fire",orientation:"",server:"",jsList:[],bundleVers:{internal:"733b3",resources:"f4a10",main:"6ab74"}};
